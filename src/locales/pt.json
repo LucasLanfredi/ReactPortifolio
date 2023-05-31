@@ -1,10 +1,12 @@
 {
-  "header.greeting": "Hello",
-  "header.jobTitle": "Backend Developer",
-  "summary.professionalSummary": "Professional summary text",
-  "projects.title": "Projects",
-  "projects.project1.title": "Project 1",
-  "projects.project1.description": "Description of project 1",
-  "projects.project2.title": "Project 2",
-  "projects.project2.description": "Description of project 2"
+    "header.greeting": "Olá, me chamo Lucas",
+    "header.jobTitle": "Desenvolvedor Backend",
+    "summary.professionalSummary": "Texto do resumo profissional",
+    "projects.title": "Projetos",
+    "projects.project1.title": "Projeto 1",
+    "projects.project1.description": "Descrição do projeto 1",
+    "projects.project2.title": "Projeto 2",
+    "projects.project2.description": "Descrição do projeto 2",
+    "projects.project3.title": "Projeto 3",
+    "projects.project3.description": "Descrição do projeto 3"
 }
