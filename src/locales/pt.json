@@ -1,0 +1,10 @@
+{
+  "header.greeting": "Hello",
+  "header.jobTitle": "Backend Developer",
+  "summary.professionalSummary": "Professional summary text",
+  "projects.title": "Projects",
+  "projects.project1.title": "Project 1",
+  "projects.project1.description": "Description of project 1",
+  "projects.project2.title": "Project 2",
+  "projects.project2.description": "Description of project 2"
+}

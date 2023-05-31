@@ -1,0 +1,10 @@
+{
+    "header.greeting": "Olá",
+    "header.jobTitle": "Desenvolvedor Backend",
+    "summary.professionalSummary": "Texto do resumo profissional",
+    "projects.title": "Projetos",
+    "projects.project1.title": "Projeto 1",
+    "projects.project1.description": "Descrição do projeto 1",
+    "projects.project2.title": "Projeto 2",
+    "projects.project2.description": "Descrição do projeto 2"
+  }
