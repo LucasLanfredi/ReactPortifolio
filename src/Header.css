@@ -1,0 +1,29 @@
+header {
+  font-family: system-ui;
+  background-image: radial-gradient(circle, #1b093d, #280e5c, #36137b);
+  color: white;
+  position: relative;
+}
+hearder.p {
+  text-align: left;
+  margin-left: 500px;
+}
+
+hearder.h1 {
+  margin-bottom: 50px;
+  text-align: middle;
+}
+
+img {
+  margin-left: 20px;
+  margin-right: 10px;
+}
+
+section {
+  text-align: justify;
+  font-family: "Lucida Console", "Courier New", monospace;
+  margin-left: 1500px;
+  max-width: 500px;
+}
+
+

@@ -2,9 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { useTranslation, I18nextProvider } from 'react-i18next';
 import i18n from 'i18next';
 import Header from './Header';
-import Summary from './Summary';
 import Projects from './Projects';
-
+document.getElementsByTagName("h1")[0].style.fontSize = "6vw";
 
 function App() {
   const [selectedLanguage, setSelectedLanguage] = useState('pt');
@@ -35,13 +34,19 @@ function App() {
 
   return (
     
-    <div>
+    <div> 
+      
+      <div class="divbtn">
+        <button class="btn" onClick={() => changeLanguage('en')}>English</button>
+        <button class="btn" onClick={() => changeLanguage('pt')}>Português</button>
+      </div>
+      
       <Header
         greeting={t('header.greeting')}
         jobTitle={t('header.jobTitle')}
+        professionalSummary={t('summary.professionalSummary')} 
         onChangeLanguage={changeLanguage}
       />
-      <Summary professionalSummary={t('summary.professionalSummary')} />
       <Projects t={t} projects={projects} />
     </div>
   );

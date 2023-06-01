@@ -1,7 +1,7 @@
 {
     "header.greeting": "Olá, me chamo Lucas",
-    "header.jobTitle": "Desenvolvedor Backend",
-    "summary.professionalSummary": "Texto do resumo profissional",
+    "header.jobTitle": "Desenvolvedor Java/Spring",
+    "summary.professionalSummary": "Eu tenho 2 anos de experiência em desenvolvimento de software. Meus principais conhecimentos incluem: Java, Spring Boot (JPA, CLOUD, etc.), desenvolvimento de APIs, metodologias ágeis (Scrum), ferramentas de computação em nuvem (Kubernetes, Docker, GCP), bancos de dados relacionais (PostgreSQL, MySQL), testes unitários e de integração (Mock, MockMVC, jUnit5).",
     "projects.title": "Projetos",
     "projects.project1.title": "Projeto 1",
     "projects.project1.description": "Descrição do projeto 1",
